@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Datos
+comment1.params=
+comment1.target=void\ leerYGuardarDatos()
+comment2.params=
+comment2.target=void\ detectarColisiones()
+comment3.params=o
+comment3.target=void\ separacionOctantes(Octante)
+numComments=4

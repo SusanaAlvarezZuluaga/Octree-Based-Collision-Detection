@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Octante
+comment1.params=maxX\ minX\ maxY\ minY\ maxZ\ minZ
+comment1.target=Octante(double,\ double,\ double,\ double,\ double,\ double)
+numComments=2

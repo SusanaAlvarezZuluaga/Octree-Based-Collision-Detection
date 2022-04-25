@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Abeja
+comment0.text=\n\ Write\ a\ description\ of\ class\ abeja\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=X\ Y\ Z
+comment1.target=Abeja(double,\ double,\ double)
+numComments=2
